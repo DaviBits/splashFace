@@ -1,0 +1,6 @@
+AudioStreamPlayer2D      - Matches the "sound" keyword.
+ColorRect
+AnimationPlayer
+RichTextLabel
+Sprite2D
+Control

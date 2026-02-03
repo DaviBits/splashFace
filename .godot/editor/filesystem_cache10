@@ -1,0 +1,17 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1770161140
+icon.svg::CompressedTexture2D::6637943192390016884::1768972401::1768972416::1::::<><><>0<>0<>7b0e0cdf6d2b353c7934f6358bac4642<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1768981678
+::res://assets/fonts/::1768974909
+Pixel Game.otf::FontFile::1082898328934110589::1768974909::1768974909::1::::<><><>0<>0<>9d208b5f9b99cf46569b84d69297a68c<>res://.godot/imported/Pixel Game.otf-104694e116241c656b4946a981dba271.fontdata::
+::res://assets/sounds/::1768982993
+rahhh.mp3::AudioStreamMP3::5973772361033682080::1768982992::1768982993::1::::<><><>0<>0<>9cc5201cd2ab5db3d1bf8f6708cda667<>res://.godot/imported/rahhh.mp3-7959ac147871fc77114c22da4b3118f8.mp3str::
+::res://assets/sprites/::1768974884
+computer.png::CompressedTexture2D::4520419805602545301::1768972547::1768974884::1::::<><><>0<>0<>8e6a161be9b29624b24ff9ad241687d0<>res://.godot/imported/computer.png-b32f01ea92c83bf21a6c741072394f2d.ctex::
+computerLogo.png::CompressedTexture2D::8184197960641664861::1768973531::1768974884::1::::<><><>0<>0<>a02a51cd410fedbfd9afb8a1aa48c73c<>res://.godot/imported/computerLogo.png-999c431037d5757541dfd354c737c817.ctex::
+::res://scenes/::1768972719
+::res://scenes/SG_splashScreen/::1768983923
+SG_SplashScreen.tscn::PackedScene::5430802790248261628::1768983923::0::1::::<><><>0<>0<><>::uid://douqsrwk22nc4::::res://assets/sprites/computerLogo.png<>uid://crrbcxmf4p830::::res://scenes/SG_splashScreen/sg_splash_screen.gd<>uid://potga6gonxcv::::res://assets/fonts/Pixel Game.otf<>uid://crd0fmwkwkp8s::::res://assets/sounds/rahhh.mp3
+sg_splash_screen.gd::GDScript::6001211646473610941::1768983762::0::1::::<>Control<><>0<>0<><>::
+::res://singleTones/::1768983923
+SoundManager.gd::GDScript::3891833699168416337::1768983923::0::1::::<>Node<><>0<>0<><>::
